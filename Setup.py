@@ -7,5 +7,5 @@ def install(package):
 
 
 if __name__ == "__main__":
-    install("pygnet")
+    install("pyglet")
     install("numpy")
